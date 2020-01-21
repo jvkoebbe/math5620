@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Math 4610 Fundamentals of Computational Mathematics Tasksheet</title>
+  <link href="homework.css" rel="stylesheet" type="text/css" />
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+  </script>
+  <script type="text/javascript" async
+    src="https://example.com/MathJax.js?config=TeX-AMS_CHTML">
+  </script>
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+</head>
+<body>
+  <hr>
+  <h1>
+    Math 4610 Fundamentals of Computational Mathematics:
+                         Tasksheet 7 Problem/Questions
+  </h1>
+  <hr>
+  <ul>
+    <hr>
+    <li> Task 1: Implement the Method of Steepest Descent for solving linear
+         systems of equations. Put an entry in your software manual that
+         documents the method. Include an example using the diagonally dominant
+         matrix generation routine from the previous tasksheet.
+    </li>
+    <hr>
+    <li> Task 2: Tryout your steepest descent method on a sequence of matrices
+         based on the Hilbert matrix. Start with $n=4$ and see how far you can
+         go increasing $n$.
+    </li>
+    <hr>
+    <li> Task 3: Implement the Conjugate Gradient method for solving linear
+         systems of equations. Keep in mind that you will need to test the
+         method on a symmetric, positive definite matrix. Create and include a
+         software page for the conjugate gradient method in your software
+         manual.
+    </li>
+    <hr>
+    <li> Task 4: As a test of the steepest descent method versus the conjugate
+         gradient method, write code to do the following. First, generate a
+         square symmetric diagonally dominant matrix - you have already created
+         such a method. Then report the number of iterations required to produce
+         a solution to the linear system. Generate the right hand side of the
+         system of equations using
+         $$
+           {\bf b} = A\ {\bf v}
+         $$
+         where all the entries of ${\bf v}$ are 1.
+    </li>
+    <hr>
+    <li> Task 5: Compare your results in Task 4 to the use of Gaussian
+         Elimination with backsubstitution. Report the amount of time it takes
+         to compute the solution of the linear system for steepest descent, the
+         conjugate gradient method, and Gaussian elimination.
+    </li>
+    <hr>
+    <li> Task 6: Repeat the work in Task 5 but use Jacobi iteration instead of
+         Gaussian elimination. Again, which runs faster.
+    </li>
+    <hr>
+    <li> Task 7: Repeat Task 6 using Gauss-Seidel instead of Jacobi Iteration.
+    </li>
+    <hr>
+    <li> Task 8: Implement a matrix multiplication routine for a tridiagonal
+         matrix that avoids as many computations with zeros as possible. Use the
+         vector form of matrix storage to store the three nonzero diagonals.
+         Create a software manual page for the method.
+    </li>
+    <hr>
+    <li> Task 9: Create an analogous routine where the matrix is penta-diagonal
+         with two diagonals above and below the main diagonal of the matrix.
+         Use 5 vectors to store the matrix. As always, document the method in
+         your software manual. 
+    </li>
+    <hr>
+    <li> Task 10: Search the internet for sites that document the use of
+         conjugate gradient methods. Write a brief paragraph (3 or 4
+         sentences) that describe your findings. Include links to the sites you
+         cite.
+    </li>
+    <hr>
+  </ul>
+</body>
+</html>
