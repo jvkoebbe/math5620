@@ -16,9 +16,9 @@ more advanced level.
 
 ## Course Syllabus
 
-[Course Syllabus](https://jvkoebbe.github.io/math5620/syllabus.pdf): This is a
-pdf file that contains a current incarnation of the syllabus for the course as
-taught at Utah State University.
+[Course Syllabus](https://jvkoebbe.github.io/math5620/syllabus/syllabus.pdf):
+This is a pdf file that contains a current incarnation of the syllabus for the
+course as taught at Utah State University.
 
 ## Introduction to the Course
 
