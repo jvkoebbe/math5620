@@ -33,6 +33,7 @@ algorithms using parallel programming techniques (e.g, OpenMP and OpenACC).
 
 ## Table of Contents
 
+[Course Syllabus](https://jvkoebbe.github.io/math5620/README):
 [Course Contents](https://jvkoebbe.github.io/math5620/README): This is a
 Markdown (.md) file that contains a the table of contents for the course.
 
