@@ -33,7 +33,7 @@ algorithms using parallel programming techniques (e.g, OpenMP and OpenACC).
 
 ## Table of Contents
 
-[Course Contents](https://jvkoebbe.github.io/math5620//README): This is a
+[Course Contents](https://jvkoebbe.github.io/math5620/README): This is a
 Markdown (.md) file that contains a the table of contents for the course.
 
 ## Software Manual Description and Template
@@ -54,7 +54,7 @@ main algorithms presented in the course.
 The links below will take you to a software manual template in in a Markdown
 file for use by students in Math 5620.
 
-[Software Manual Template](https://jvkoebbe.github.io/math4610/appendix02/softwareManualTemplate)
+[Software Manual Template](https://jvkoebbe.github.io/math4610/softwareManual/softwareManualTemplate)
 
 ## Tasksheet Table of Contents
 
