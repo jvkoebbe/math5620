@@ -54,7 +54,8 @@ main algorithms presented in the course.
 The links below will take you to a software manual template in in a Markdown
 file for use by students in Math 5620.
 
-[Software Manual Template](https://jvkoebbe.github.io/math5620/appendix02/softwareManualTemplate)
+[Software Manual Template](https://jvkoebbe.github.io/math4610/appendix02/softwareManualTemplate)
 
 ## Tasksheet Table of Contents
 
+[Homework Assignments](https://jvkoebbe.github.io/math5620/tasksheets/md/toc_tasksheets)
