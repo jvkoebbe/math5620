@@ -9,7 +9,7 @@ course.
   | Tasksheets/Homework | Link to Tasksheet | Due Date |
   | ------------------- | :---------------: | :------- |
   | **Homework 1.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_01.html) | Friday January 17, 2019, 5:00pm |
-  | **Homework 2.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_02.html) | TBA
+  | **Homework 2.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_02.html) | Friday January 29, 2019, 5:00pm |
   | **Homework 3.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_03.html) | TBA
   | **Homework 4.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_04.html) | TBA
   | **Homework 5.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_05.html) | TBA
