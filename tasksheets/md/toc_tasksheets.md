@@ -12,7 +12,7 @@ course.
   | **Homework 2.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_02.html) | Friday January 31, 2020, 5:00pm |
   | **Homework 3.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_03.html) | Monday February 10, 2020, 5:00pm
   | **Homework 4.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_04.html) | Monday February 17, 2020, 5:00pm
-  | **Homework 5.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_05.html) | TBA
+  | **Homework 5.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_05.html) | Friday February 27, 2020, 5:00pm
   | **Homework 6.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_06.html) | TBA
   | **Homework 7.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_07.html) | TBA
   | **Homework 8.** | [tasksheet link](https://jvkoebbe.github.io/math5620/tasksheets/html/tasksheet_08.html) | TBA
