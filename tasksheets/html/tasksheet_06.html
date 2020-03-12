@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> Math 5620 Numerical Methods for the Approximate Solution of Differential Equations </title>
+  <link href="homework.css" rel="stylesheet" type="text/css" />
+  <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+  </script>
+  <script type="text/javascript" async
+    src="https://example.com/MathJax.js?config=TeX-AMS_CHTML">
+  </script>
+  <script type="text/javascript" async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+</head>
+<body>
+  <hr>
+  <h1>
+    Math 5620 Numerical Methods for the Approximate Solution of Differential
+       Equations: Tasksheet 6 Problem/Questions
+  </h1>
+  <hr>
+  <ul>
+    <hr>
+    <li> Task 1: Write a code that solves the Poisson equation where the linear
+         solver used is Gauss-Seidel. So, use the equation
+         \[
+            \Delta\ u = {{\partial u}\over{\partial x^2}}
+                             + {{\partial u}\over{\partial y^2}} = f(x,y)
+         \]
+         with \(f(x,y)=xy\) and homogeneous boundary conditions.
+    </li>
+    <hr>
+    <li> Task 2: Write a code to solve a linear system of equations using the
+         conjugate gradient method. For a test case, use the matrix for the
+         Poisson equation. Use the methodology discussed in class to test the
+         method. That is, generate a right hand side from a vector of ones in
+         the specification of the linear system.
+    </li>
+    <hr>
+    <li> Task 3: Solve
+         \[
+            \Delta\ u = {{\partial u}\over{\partial x^2}}
+                             + {{\partial u}\over{\partial y^2}} = f(x,y)
+         \]
+         with \(f(x,y)=xy\) and homogeneous boundary conditions. Use at least
+         three different mesh sizes, say \(h=0.1\), \(h=0.01\), and \(h=0.001\)
+         for the test.
+    </li>
+    <hr>
+    <li> Task 4: Build routines that will assemble the matrix for a nine point
+         stencil. Also build a code that will create the right hand side for
+         the Poisson equation.
+    </li>
+    <hr>
+    <li> Task 5: Build a code using previously created codes that will compute
+         an approximate solution for the Poisson equation using a 9 point
+         stencil for the Poisson equation in Task 1.
+    </li>
+    <hr>
+    <li> Task 6: Search the internet for articles that compare 5 point stencil
+         finite difference approximations and 9 point stencil finite difference
+         approximations. Write a brief paragraph (3 or 4 sentences) that
+         describes your findings. Include links to the sites you cite.
+    </li>
+    <hr>
+  </ul>
+</body>
+</html>
