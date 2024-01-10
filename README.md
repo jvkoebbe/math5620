@@ -8,4 +8,4 @@ The contents for the course are the following.
 
 ## Materials from the Author/Book
 
-[Book Materials/Problems](www.siam.org/books/OT98
+[Book Materials/Problems](www.siam.org/books/OT98}
