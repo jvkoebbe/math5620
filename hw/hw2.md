@@ -79,3 +79,9 @@ Make sure that the code reflects the
    include alternative methods for solution of the linear system.
 
 <hr>
+
+### Materials:
+
+* [Thomas Algorithm](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm)
+
+<hr>
