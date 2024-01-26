@@ -9,3 +9,9 @@ The contents for the course are the following.
 ## Materials from the Author/Book
 
 [Textbook Materials](http://faculty.washington.edu/rjl/fdmbook/):
+
+## Homework Assignments:
+
+* [Homework 1](./hw/hw1.md)
+  
+* [Homework 2](./hw/hw2.md)
