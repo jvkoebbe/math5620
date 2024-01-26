@@ -1,6 +1,6 @@
-# Math 5620 Homework:
+# Math 5620 Homework 1:
 
-### Homework No. 1 Questions
+### Questions
 
 The following questions should be completed.
 

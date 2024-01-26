@@ -1,6 +1,6 @@
-# Math 5620 Homework:
+# Math 5620 Homework 2:
 
-### Homework No. 2 Questions
+### Questions
 
 The following questions should be completed. This assignment will start working
 through the development of a finite difference approximation for the simplest of
