@@ -12,7 +12,7 @@ The following questions should be completed.
     u''(x) = f(x)
   $$
 
-  with $f(x)=\cos(3\pi x)$ and boundary conditions $u(0)=0$ and
+  with $f(x)=\cos(\frac{3\pi}{2} x)$ and boundary conditions $u(0)=0$ and
   $u(1)=1$, complete a computational convergence study to verify
   the order of accuracy analysis. Use the sequence of $h$ values
 
