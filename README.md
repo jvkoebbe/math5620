@@ -10,6 +10,10 @@ The contents for the course are the following.
 
 [Textbook Materials](http://faculty.washington.edu/rjl/fdmbook/):
 
+## Links to Notes
+
+[Day 1](./daily_notes)
+
 ## Homework Assignments:
 
 * [Homework 1](./hw/hw1.md)
