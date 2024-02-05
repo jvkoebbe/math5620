@@ -12,7 +12,7 @@ The contents for the course are the following.
 
 ## Links to Notes
 
-[Day 1](./daily_notes)
+[Day 1](./daily_lectures/day1.pdf)
 
 ## Homework Assignments:
 
