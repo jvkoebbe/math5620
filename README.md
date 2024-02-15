@@ -42,6 +42,8 @@ The contents for the course are the following.
 
 [Day 15](./daily_lectures/day15.pdf)
 
+[Day 16](./daily_lectures/day16.pdf)
+
 ## Homework Assignments:
 
 * [Homework 1](./hw/hw1.md)
