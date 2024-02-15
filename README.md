@@ -53,3 +53,5 @@ The contents for the course are the following.
 * [Homework 2](./hw/hw2.md) [Thomas Algoritihn for Tridiagonal Matrices](https://en.wikipedia.org/wiki/Tridiagonal_matrix_algorithm)
 
 * [Homework 3](./hw/hw3.md)
+* 
+* [Homework 4](./hw/hw4.md)
