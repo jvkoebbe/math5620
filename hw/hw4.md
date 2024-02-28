@@ -76,7 +76,7 @@ from Question 2. Show graphs of both solution results as part of your write-up.
 For the PDE in this problem set use the following data.
 
 $$
-  f(x,y) = 3\ \sin(\pi\ x)\ \sin(4\pi\ x)
+  f(x,y) = 3\ \sin(\pi\ x)\ \sin(4\pi\ y)
 $$
 
 and
