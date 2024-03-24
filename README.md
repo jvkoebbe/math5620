@@ -61,3 +61,5 @@ The contents for the course are the following.
 * [Homework 4](./hw/hw4.md)
   
 * [Homework 5](./hw/hw5.md)
+  
+* [Homework 6](./hw/hw6.md)
