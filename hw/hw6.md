@@ -11,13 +11,13 @@ $$
 $$
 with initial condition,
 $$
-  \begin{split}
+  \begin{align}
     &u(x,0) = u_0(x), \\
     & \ \\
     &u(a,t) = \alpha, \\
     & \ \\
     &u(b,t) = \beta
-  \end{split}
+  \end{align}
 $$
 
 ---
