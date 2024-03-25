@@ -5,11 +5,14 @@
 The following questions should be completed. The
 problems consider the solution of the heat equation.
 In one spatial dimension (heat in a wire) defined by
+
 $$
   \frac{\partial u}{\partial t}
      = \kappa\ \frac{\partial^2 u}{\partial x^2}
 $$
+
 with initial condition,
+
 $$
   \begin{align}
     & u(x,0) = u_0(x), \\
@@ -23,9 +26,11 @@ $$
 ---
 
 **Question 1.** Write a code that will approximately solve heat equation using finite difference methods as discussed in class and presented in the book. Use an explicit Euler method for the discretization in $t$ and a central difference in $x$. Start with the unit interval as the domain and integrate in $t$ from $0$ to $1$, $\kappa=1$, and use
+
 $$
   u_0(x) = \sin(\pi x)
 $$
+
 with boundary conditions $\alpha=0$ and $\beta=0$.
 
 ---
