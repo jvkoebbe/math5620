@@ -12,11 +12,11 @@ $$
 with initial condition,
 $$
   \begin{align}
-    &u(x,0) = u_0(x), \\
+    & u(x,0) = u_0(x), \\
     & \ \\
-    &u(a,t) = \alpha, \\
+    & u(a,t) = \alpha, \\
     & \ \\
-    &u(b,t) = \beta
+    & u(b,t) = \beta
   \end{align}
 $$
 
